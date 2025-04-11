@@ -1,0 +1,93 @@
+Rezumat pe fișiere - Proiect site informativ despre Smartphone-uri
+1. Debug.html
+Structura principală a paginii web.
+
+Conține secțiuni pentru:
+
+Antet (cu titlul site-ului).
+
+Introducere (scurtă prezentare a scopului site-ului).
+
+Selector de modele (butoane pentru iPhone, Samsung, Google).
+
+Informații detaliate despre fiecare smartphone (imagine, specificații, funcționalități).
+
+Argumente de cumpărare (testimonial cu text și imagine).
+
+Recenzie video (embed YouTube + descriere).
+
+Formular de contact (pentru întrebări).
+
+Subsol (footer simplu).
+
+2. DebugMain.css
+Stilizarea layout-ului principal:
+
+Design responsive (flexbox, media queries pentru mobile).
+
+Stiluri pentru antetul fix (sticky-header).
+
+Așezarea secțiunilor cu telefoane (imagine + descriere).
+
+Tabele pentru specificații tehnice.
+
+Liste cu caracteristici (puncte personalizate).
+
+3. DebugColor.css
+Sistem de culori bazat pe variabile CSS (:root).
+
+Scheme de culori pentru:
+
+Fundaluri (--primary-color, --secondary-color).
+
+Text (--text-color, --light-text).
+
+Borduri (--border-color).
+
+Aplicarea culorilor pe elemente (header, footer, tabele).
+
+4. DebugButtons.css
+Stilizarea butoanelor interactive:
+
+Efecte de hover (schimbare culoare, umbră, animație).
+
+Stil pentru butoanele de filtrare (iPhone/Samsung/Google).
+
+Indicare a opțiunii selectate (:checked + label).
+
+5. DebugReasons.css
+Stilizarea secțiunii de argumente (testimonial):
+
+Layout flexibil (text + imagine).
+
+Adaptare pe dispozitive mobile.
+
+Stiluri pentru titluri și paragrafe.
+
+6. DebugYoutube.css
+Stilizarea secțiunii video:
+
+Așezare pe două coloane (video + descriere).
+
+Design responsive (trecere pe o singură coloană pe mobile).
+
+Stiluri pentru iframe-ul YouTube și textul asociat.
+
+7. DebugIntrebari.css
+Stilizarea formularului de contact:
+
+Design curat (background, border-radius, box-shadow).
+
+Stiluri pentru câmpuri de input și buton de trimitere.
+
+Efecte de hover pe buton.
+
+Concluzie - Proiectul este un site informativ complet despre smartphone-uri premium, cu:
+
+Navigare ușoară (butoane filtrare).
+Design responsive (funcționează pe orice ecran).
+Informații structurate (tabele, liste, video).
+Interactivitate (hover effects, formular funcțional).
+Coerență vizuală (culori, fonturi, spațiere).
+
+Oferă utilizatorilor toate detaliile necesare pentru a compara și alege între iPhone 16, Samsung S24 Ultra și Google Pixel 8 Pro.
